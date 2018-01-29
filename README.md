@@ -13,3 +13,7 @@
 * [OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles](http://ocaml.org/)
 
 * [OCaml Books](https://ocaml.org/learn/books.html)
+
+
+& [Automatically exported from code.google.com; thinkocaml Repository](https://github.com/lukasodaniel/thinkocaml) from GitHub user: lukasodaniel.
+
