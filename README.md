@@ -19,3 +19,9 @@
 * (Past Copy) [Allen Downey: Think OCaml Repository Saved from Google Code](https://github.com/AllenDowney/ThinkOCaml).
 
 * Special Thank You to [Allen B. Downey](https://github.com/AllenDowney). His [Personal Website](http://www.allendowney.com/wp/) and [University Website](http://allendowney.com/research/).
+
+### License Terms
+
+1. See the LICENSE file.
+
+1. View the [GNU Free Documentation License](https://www.gnu.org/licenses/fdl-1.3.en.html) web page.
