@@ -8,12 +8,12 @@
 
 * [How to Think Like a (Functional) Programmer](http://greenteapress.com/thinkocaml/) web page at Green Tea Press.
 
-* The Office OCaml Website and more, here. 
+* The Office OCaml Website and more, here.
 
 * [OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles](http://ocaml.org/)
 
 * [OCaml Books](https://ocaml.org/learn/books.html)
 
+* (Past Copy) [Automatically exported from code.google.com; thinkocaml Repository](https://github.com/lukasodaniel/thinkocaml) from GitHub user: lukasodaniel.
 
-& [Automatically exported from code.google.com; thinkocaml Repository](https://github.com/lukasodaniel/thinkocaml) from GitHub user: lukasodaniel.
-
+* Special Thank You to [Allen B. Downey](https://github.com/AllenDowney). His [Personal Website](http://www.allendowney.com/wp/) and [University Website](http://allendowney.com/research/).
